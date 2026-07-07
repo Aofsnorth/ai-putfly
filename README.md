@@ -1,2 +1,2 @@
 # ai-putfly
-Aman aja le
+Aman aja le, this source code is not written by ai btw (not a vibecode repo)
